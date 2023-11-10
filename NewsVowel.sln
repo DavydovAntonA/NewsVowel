@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsVowel", "NewsVowel\NewsVowel.csproj", "{BB35EF0B-1ACE-4294-87FC-74B018CCCB74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB35EF0B-1ACE-4294-87FC-74B018CCCB74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB35EF0B-1ACE-4294-87FC-74B018CCCB74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB35EF0B-1ACE-4294-87FC-74B018CCCB74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB35EF0B-1ACE-4294-87FC-74B018CCCB74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E67343F3-D13B-41F7-A892-9129539438CD}
+	EndGlobalSection
+EndGlobal
